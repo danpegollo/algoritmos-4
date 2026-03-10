@@ -1,0 +1,2 @@
+A empresa XKW Ltda. concedeu um bônus de 20% do valor do salário a todos os funcionários com tempo de trabalho igual ou superior a 5 anos e de 10% aos demais. 
+Faça um programa para calcular e exibir o valor do bônus e o valor do salário atualizado.
